@@ -15,7 +15,7 @@ A set of Python training functions for working with products, customers, and cal
 3. Open a terminal in the folder
 4. Run: `python test.py`
 ## Structure
--`alabuba_RU` - main functions
+-`alabuba.py` - main functions
 -`test.py` - usage examples
 ## Author
 [Diman_Banan](https://github.com/klutkindmitrij-ops)
