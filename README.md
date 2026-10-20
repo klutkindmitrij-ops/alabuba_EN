@@ -1,21 +1,22 @@
 # alabuba
-A set of Python training functions for working with products, customers, and calculations.
-## What can this library do?
--`discount` - calculates discounted products.
--`all_products` - calculates the total for all products.
--`average_amount` - calculates the average bill per product.
--`profitability` - calculates profit and loss.
--`sorting_goods` - sorts by price, quantity, and date.
--`residue_filter` - enters a number into a list with a specified difference condition.
--`find_client` - finds an employee in a list.
--`salary_with_bonus` - calculates salary with a percentage (bonus).
-## How to run it?
-1. Download Python 3.8+
-2. Download the project
-3. Open a terminal in the folder
-4. Run: `python test.py`
-## Structure
--`alabuba.py` - main functions
--`test.py` - usage examples
-## Author
+Набор учебных функций на Python для работы с товарами, клиентами и расчетами.
+## Что умеет эта библиотека?
+-`calculator_tax` - считает зарплату с вычитом налога 13 %.
+-`discount` - считает товар со скидкой.
+-`all_products` - считает сумму за все товары.
+-`average_amount` - считает средний чек за товар.
+-`profitability` - считает прибыль и убыток.
+-`sorting_goods` - сортировка по цене, количеству и дате.
+-`residue_filter` - вводит число в список, с определеным условием разницы.
+-`find_client` - ищет работника в списке
+-`salary_with_bonus` - считает зарплату с процентом (премия)
+## Как запустить?
+1. Скачать python 3.8+
+2. Скачать проект
+3. Открыть терминал в папке
+4. Запустить: `python test.py`
+## Структура
+-`alabuba.py` - основные функции
+-`test.py` - примеры использования
+## Автор
 [Diman_Banan](https://github.com/klutkindmitrij-ops)
